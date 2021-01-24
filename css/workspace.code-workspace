@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../untitled folder/Loruki"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Loruki"
+	}
+}
